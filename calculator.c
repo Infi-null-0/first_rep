@@ -2,6 +2,7 @@
 #include<conio.h>
 int main()
 {
+    int a=100;
     float num1,num2,choice;
     char case_var;
     printf("\nSIMPLE CALCULATOR !\n");
