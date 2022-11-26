@@ -4,7 +4,7 @@ int main()
 {
     float num1,num2,choice;
     char case_var;
-    printf("\nSIMPLE CALCULATOR\n");
+    printf("\nSIMPLE CALCULATOR !\n");
     while (choice)
     {
         printf("\nEnter number 1: ");
